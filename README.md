@@ -9,8 +9,10 @@ The CEO has come to your desk and explained that we want to increase signups fro
 referral scheme . As part of this effort, we are keen to understand at what point in the
 member lifecycle members refer other people. There are 2 CSV files attached to your email
 that contain information on our customers and their referral behaviour:
+
 ● The Customer Info CSV contains information on customers and metadata for each
 customer. It is a representative sample of the whole customer database
+
 ● The Referral Info CSV is a log of sign-ups we have received from the referral
 channel
 Use this information to answer the questions below:
@@ -22,4 +24,3 @@ Bulb for very long. Think about how this might affect your conclusions.)
 you think we need a larger sample size to be sure?
 3. We can send an email to members to invite them to refer their friends. We can choose
 when, and to whom, we send the emails. How would you suggest we proceed?
-You should aim to spend 2-3 hours on this task. If
